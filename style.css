@@ -1,0 +1,17 @@
+body {
+  background-color: #f5f5dc;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#ritualCanvas {
+  border: 2px solid #444;
+  background-color: #222;
+}
+
+#feedback {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #fff;
+}
